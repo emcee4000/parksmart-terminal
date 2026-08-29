@@ -62,3 +62,14 @@ Through this project, we gained hands-on experience in designing a database-base
 **Domain:** Parking Management
 **Status:** Completed
 
+## 👥 Team Members
+
+This project was developed collaboratively by:
+
+* **Tahmid Karim**
+* **Muzahidul Islam**
+* **Syed Tahmed**
+* **Thaki Tazwar Al Rahman**
+* **Reduan Ahmed Robin**
+
+
