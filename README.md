@@ -29,11 +29,9 @@ The main objectives of ParkSmart are to:
 * 📊 **Organized Records** – Maintain structured parking information
 
 ## 🛠️ Technologies Used
-
-* **Java** – Application/backend logic
-* **MySQL** – Database management
-* **HTML & CSS** – User interface
-* **SQL** – Database queries and operations
+Frontend: React + TypeScript, Tailwind CSS & Shadcn UI
+Backend & Database: Convex
+Authentication: Convex Auth
 
 ## 🗃️ Database Concepts Demonstrated
 
